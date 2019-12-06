@@ -11,7 +11,7 @@ For Each ws In Worksheets
     Dim closeNumber, openNumber, MaxNumber, MinNumber, MaxVolume As Double
     Dim total As Double
             
-    'Assign an orignal value to all variables.
+    'Assign an original value to all variables.
     x = 2
     y = 9
     MaxNumber = 0
